@@ -1,4 +1,4 @@
-ARTIFICAL INTELLIGENCE - Adi Bere
+ARTIFICIAL INTELLIGENCE - Adi Bere
 https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-70b-foundation-model-meta-amazon-bedrock/
 https://aws.amazon.com/about-aws/whats-new/2023/11/claude-2-1-foundation-model-anthropic-amazon-bedrock/
 https://aws.amazon.com/about-aws/whats-new/2023/11/stable-diffusion-xl-1-0-foundation-model-amazon-bedrock/
@@ -15,16 +15,23 @@ https://partyrock.aws/guide/getStarted
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-healthscribe-generally-available/
 https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-stud
 https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/
-https://aws.amazon.com/about-aws/whats-new/2023/11/dashboard-enhancements-aws-security-hub/
+
+SECURITY - [Andrei Stefanie](https://github.com/AndreiStefanie)
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/
+https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-generative-ai-powered-natural-language-querying-preview/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-aws-lambda-code-scanning/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-runtime-monitoring-amazon-ec2-preview/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-ecs-runtime-monitoring-fargate/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-security-guardduty-ecs-monitoring/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-investigations-iam/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-log-retrieval-security-lake/
+https://aws.amazon.com/about-aws/whats-new/2023/11/aws-security-hub-central-configuration/
 https://aws.amazon.com/about-aws/whats-new/2023/11/dashboard-enhancements-aws-security-hub/
-
-SECURITY - Andrei Stefanie
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/
-
-CONTAINERS - Andrei Stefanie
+https://aws.amazon.com/about-aws/whats-new/2023/11/customize-security-controls-aws-security-hub/
+https://aws.amazon.com/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/
+https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-custom-policy-check/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eks-pod-identity/
 
 SERVERLESS - Laszlo Bodor
 
