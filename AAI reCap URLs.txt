@@ -16,6 +16,16 @@ https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-avai
 https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/
 https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/
 
+DATABASES - Adi Bere
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-redshift/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-limitless-database/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-serverless/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-db2/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-analytics/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-keyvaluestore-globally-managed-key-value-datastore/
+
 SECURITY - [Andrei Stefanie](https://github.com/AndreiStefanie)
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-generative-ai-powered-natural-language-querying-preview/
@@ -39,12 +49,13 @@ DEV - Lucian Revnic
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-kotlin/
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-rust/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-aws-lambda-code-scanning/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-throughput-quota-fifo-high-throughput-mode/
 https://aws.amazon.com/about-aws/whats-new/2023/11/ide-extension-aws-application-composer/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-enhanced-visual-mode-schema-editing/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-aws-lambda-code-scanning/
 https://aws.amazon.com/blogs/security/introducing-iam-access-analyzer-custom-policy-checks/
 https://aws.amazon.com/blogs/aws/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier
+https://aws.amazon.com/about-aws/whats-new/2023/11/aws-console-to-code-preview-generate-console-actions/
 
 OBSERVABILITY
 Amazon CloudWatch Application Signals (Preview)
@@ -78,16 +89,6 @@ https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-manageability-usability-features/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-support-apache-iceberg/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-zero-etl-integration-s3-preview/
-
-DATABASES
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-redshift/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-limitless-database/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-serverless/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-db2/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-analytics/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-keyvaluestore-globally-managed-key-value-datastore/
 
 STORAGE
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-express-one-zone-storage-class/
