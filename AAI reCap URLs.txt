@@ -11,10 +11,10 @@ https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-multimodal-embed
 https://aws.amazon.com/about-aws/whats-new/2023/11/app-discovery-page-partyrock-bedrock-playground/
 https://partyrock.aws/
 https://aws.amazon.com/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock
-https://partyrock.aws/guide/getStarted
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-healthscribe-generally-available/
 https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-stud
 https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/
+https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/
 
 SECURITY - [Andrei Stefanie](https://github.com/AndreiStefanie)
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/
@@ -36,14 +36,17 @@ https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eks-pod-identity/
 SERVERLESS - Laszlo Bodor
 
 DEV - Lucian Revnic
+https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-kotlin/
+https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-rust/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-throughput-quota-fifo-high-throughput-mode/
-https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-kotlin/
-https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-kotlin/
 https://aws.amazon.com/about-aws/whats-new/2023/11/ide-extension-aws-application-composer/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-thin-client/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-enhanced-visual-mode-schema-editing/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-aws-lambda-code-scanning/
+https://aws.amazon.com/blogs/security/introducing-iam-access-analyzer-custom-policy-checks/
+https://aws.amazon.com/blogs/aws/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier
 
-OBSERVABILITY - Lucian Revnic
+OBSERVABILITY
 Amazon CloudWatch Application Signals (Preview)
 https://aws.amazon.com/blogs/aws/amazon-cloudwatch-application-signals-for-automatic-instrumentation-of-your-applications-preview/
 Amazon CloudWatch Logs Anomaly Detection
@@ -57,7 +60,7 @@ https://aws.amazon.com/blogs/aws/new-use-amazon-cloudwatch-to-consolidate-hybrid
 Amazon CloudWatch out-of-the-box best practice alarms
 https://aws.amazon.com/about-aws/whats-new/2023/10/cloudwatch-out-of-the-box-alarm-recommendations-aws-services/
 
-APP INTEGRATIONS - Lucian Revnic
+APP INTEGRATIONS
 https://aws.amazon.com/blogs/aws/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/
 https://aws.amazon.com/about-aws/whats-new/2023/11/virtualization-sparc-aws-stromasys-available/
 
