@@ -15,8 +15,9 @@ https://aws.amazon.com/about-aws/whats-new/2023/11/aws-healthscribe-generally-av
 https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-stud
 https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/
 https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/
 
-DATABASES - Adi Bere
+DATA - Adi Bere
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-redshift/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/
