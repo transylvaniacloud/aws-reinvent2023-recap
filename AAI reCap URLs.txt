@@ -14,7 +14,6 @@ https://aws.amazon.com/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-healthscribe-generally-available/
 https://aws.amazon.com/blogs/machine-learning/sagemaker-distribution-is-now-available-on-amazon-sagemaker-stud
 https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/
-https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/
 
 DATA - Adi Bere
@@ -22,10 +21,8 @@ https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-inte
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-limitless-database/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-serverless/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-db2/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-analytics/
-https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-keyvaluestore-globally-managed-key-value-datastore/
 
 SECURITY - [Andrei Stefanie](https://github.com/AndreiStefanie)
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/
@@ -43,6 +40,7 @@ https://aws.amazon.com/about-aws/whats-new/2023/11/customize-security-controls-a
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/
 https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-custom-policy-check/
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eks-pod-identity/
+https://aws.amazon.com/blogs/opensource/ready-for-flight-announcing-finch-1-0-ga/
 
 SERVERLESS - Laszlo Bodor
 https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-express-one-zone-storage-class/
@@ -51,8 +49,8 @@ https://aws.amazon.com/blogs/aws/aws-step-functions-workflow-studio-is-now-avail
 https://aws.amazon.com/blogs/aws/new-myapplications-in-the-aws-management-console-simplifies-managing-your-application-resources/
 https://aws.amazon.com/blogs/aws/vector-engine-for-amazon-opensearch-serverless-is-now-generally-available/
 https://aws.amazon.com/blogs/aws/build-generative-ai-apps-using-aws-step-functions-and-amazon-bedrock/
-https://aws.amazon.com/blogs/aws/amazon-codewhisperer-offers-new-ai-powered-code-remediation-iac-support-and-integration-with-visual-studio/
 https://aws.amazon.com/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-serverless/
 
 DEV - Lucian Revnic
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-kotlin/
